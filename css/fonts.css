@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'MyriadPro';
+    src: url('../fonts/MyriadProRegular.eot');
+    src: url('../fonts/MyriadProRegular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MyriadProRegular.woff') format('woff'),
+         url('../fonts/MyriadProRegular.ttf') format('truetype'),
+         url('../fonts/MyriadProRegular.svg#MyriadPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Candara';
+    src: url('../fonts/Candara.eot');
+    src: url('../fonts/Candara.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Candara.woff') format('woff'),
+         url('../fonts/Candara.ttf') format('truetype'),
+         url('../fonts/Candara.svg#Candara') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CandaraBold';
+    src: url('../fonts/CandaraBold.eot');
+    src: url('../fonts/CandaraBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/CandaraBold.woff') format('woff'),
+         url('../fonts/CandaraBold.ttf') format('truetype'),
+         url('../fonts/CandaraBold.svg#CandaraBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CandaraItalic';
+    src: url('../fonts/CandaraItalic.eot');
+    src: url('../fonts/CandaraItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/CandaraItalic.woff') format('woff'),
+         url('../fonts/CandaraItalic.ttf') format('truetype'),
+         url('../fonts/CandaraItalic.svg#CandaraItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CandaraBoldItalic';
+    src: url('../fonts/CandaraBoldItalic.eot');
+    src: url('../fonts/CandaraBoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/CandaraBoldItalic.woff') format('woff'),
+         url('../fonts/CandaraBoldItalic.ttf') format('truetype'),
+         url('../fonts/CandaraBoldItalic.svg#CandaraBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TitilliumText';
+    src: url('../fonts/TitilliumText14L250wt.eot');
+    src: url('../fonts/TitilliumText14L250wt.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/TitilliumText14L250wt.woff') format('woff'),
+         url('../fonts/TitilliumText14L250wt.ttf') format('truetype'),
+         url('../fonts/TitilliumText14L250wt.svg#TitilliumText') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

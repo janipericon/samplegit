@@ -1,0 +1,34 @@
+[ 
+  { 
+    "title" : "Broccoli",
+    "chinese" : "西兰花",
+    "subtitle" : "",
+    "image" : "Broccoli.jpg",
+    "thumb" : "Broccoli_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Broccolini",
+    "chinese" : "西兰花仔",
+    "subtitle" : "",
+    "image" : "Broccolini.jpg",
+    "thumb" : "Broccolini_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Cauliflower",
+    "chinese" : "菜花",
+    "subtitle" : "",
+    "image" : "Cauliflower.jpg",
+    "thumb" : "Cauliflower_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Lettuce",
+    "chinese" : "西生菜",
+    "subtitle" : "",
+    "image" : "Lettuce.jpg",
+    "thumb" : "Lettuce_thumb.jpg",
+    "category" : ""
+  }
+]

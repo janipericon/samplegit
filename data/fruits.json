@@ -1,0 +1,50 @@
+[ 
+  { 
+    "title" : "Apple",
+    "chinese" : "萍果",
+    "subtitle" : "Green/Red",
+    "image" : "Apple.jpg",
+    "thumb" : "Apple_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Lemon",
+    "chinese" : "柠檬",
+    "subtitle" : "",
+    "image" : "Lemon.jpg",
+    "thumb" : "Lemon_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Lime",
+    "chinese" : "吉子",
+    "subtitle" : "",
+    "image" : "Lime.jpg",
+    "thumb" : "Lime_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Mango",
+    "chinese" : "芒果",
+    "subtitle" : "",
+    "image" : "Mango.jpg",
+    "thumb" : "Mango_thumb.jpg",
+    "category" : ""
+  },
+  { 
+    "title" : "Orange",
+    "chinese" : "橙",
+    "subtitle" : "",
+    "image" : "Orange.jpg",
+    "thumb" : "Orange_thumb.jpg",
+    "category" : ""
+  },
+  {
+    "title" : "Watermelon ",
+    "chinese" : "西瓜",
+    "subtitle" : "",
+    "image" : "Watermelon.jpg",
+    "thumb" : "Watermelon_thumb.jpg",
+    "category" : ""
+  }
+]
